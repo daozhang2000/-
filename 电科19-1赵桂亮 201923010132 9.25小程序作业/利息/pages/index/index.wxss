@@ -1,0 +1,19 @@
+/**index.wxss**/
+.input{
+  border-bottom: 1px solid blue;
+  margin: 20px 0;
+}
+.button{
+  margin-top: 20px;
+
+
+}
+.box{
+  font: size 25px;
+  font-weight: bold;
+  text-align: center;
+}
+.box2{
+  text-align: center;
+  background-color: rgb(51, 255, 0);
+}

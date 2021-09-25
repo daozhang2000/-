@@ -1,0 +1,14 @@
+<!--pages/kj/RandomSum/index.wxml-->
+<view class="box">
+  <view class='title'>彩票号码生成</view>
+</view>
+
+  <view>双色球号码为：</view>
+  <view class="bg1">
+  <view class="box3">{{rand}}</view>
+  <view class="box4">{{sum}}</view>
+  </view>
+  <view class="box5">
+  <button type='primary' bindtap='newRand'>产生新的随机数</button>
+  </view>
+  <view>电科19-1 赵桂亮 201923010132</view>

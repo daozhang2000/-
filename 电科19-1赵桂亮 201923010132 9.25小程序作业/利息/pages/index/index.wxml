@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<view class="box">
+<view class="title">利息计算器</view>
+</view>
+<view class="box1">
+<view>
+<input placeholder="请输入本金" type="number" bindblur='startNum'>
+</input>
+<input placeholder="请输入利率" type="number" bindblur='endNum'>
+</input>
+</view>
+<view>五年后得到多少钱：{{sum}}</view>
+<button type="primary" bindtap='calc'>本金和利息的和为</button>
+</view>
+<view class="box2">
+电科19-1 赵桂亮 201923010132
+</view>

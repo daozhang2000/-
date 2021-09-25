@@ -1,0 +1,30 @@
+/* pages/kj/RandomSum/index.wxss */
+.box{
+  font-size: large;
+  text-align: center;
+}
+
+.box3{
+  color: rgb(233, 13, 13);
+}
+.box4{
+  color: rgb(16, 93, 156);
+}
+
+.box3{
+  width:10px;
+  height: 80px;
+  float: left;
+}
+.box4{
+  width: 238px;
+  height: 80px;
+  float:right;
+}
+.bg1{
+  margin: 10px auto;
+}
+.box5{
+  clear: both;
+  margin: 0,auto;
+}
