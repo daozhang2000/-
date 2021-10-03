@@ -1,0 +1,9 @@
+/* pages/taishan/taishan.wxss */
+.box1{
+  font-size: 32px;
+  text-align: center;
+  color: rgb(215, 236, 20);
+}
+.box2{
+  color: rgb(200, 221, 15);
+}

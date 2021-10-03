@@ -1,0 +1,14 @@
+/* pages/quancheng/quancheng.wxss */
+.box1{
+  text-align: center;
+  color: rgba(36, 228, 68, 0.589);
+  font-size: 40px;
+
+}
+.box2{
+  margin: 0px;
+
+}
+.box{
+  color: rgb(36, 228, 148);
+}
